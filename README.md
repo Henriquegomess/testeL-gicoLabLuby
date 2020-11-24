@@ -29,4 +29,4 @@ Entrada do método ([1, 2, 3, 4, 5], 2), Resultado do método: [[1, 2], [3, 4], 
 10) Implemente um método que encontre os valores comuns entre dois arrays.
 Entrada do método ([6, 8], [8, 9]), Resultado do método: [8]
 
-ps: Esses exercícios são de senso comum da comunidade desenvolvimento, utilize o melhor padrão para implementação, criando uma semântica factível.
+
